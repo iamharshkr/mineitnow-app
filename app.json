@@ -1,0 +1,8 @@
+{
+  "name": "MineItNow",
+  "displayName": "MineItNow",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-7294124022569088~5161861919",
+    "ios_app_id": "ca-app-pub-xxxxxxxx~xxxxxxxx"
+  }
+}
